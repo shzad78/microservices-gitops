@@ -1,0 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+*.zip
+*.gz
+*.tar
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
